@@ -1,11 +1,6 @@
-- 
-- 
-- 
+<!--**Hwangbounghyeon/Hwangbounghyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-**Hwangbounghyeon/Hwangbounghyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 이름 : 황병현  
 - 🌱 이메일 : 5516237@kmu.kr  
