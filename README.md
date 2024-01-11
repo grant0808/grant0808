@@ -47,6 +47,7 @@ Here are some ideas to get you started:-->
 
 🌱 **e-mail** <br>
 <a href="grant0808@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=grant0808@naver.com"/>
+</div>
 
 <div align="left">
 ## 👨🏻‍💻 Careers
