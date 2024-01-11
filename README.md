@@ -63,7 +63,12 @@ Here are some ideas to get you started:-->
   
   ## 📚 Education
   - **SSAFY** - 삼성 청년 SW 아카데미 11기 (2024.01. ~ ) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
-  - **결초보은** - 계명대학교 결초보은(빅데이터분석 학술 동아리) (2022.01 ~ 2024.02) 
+  - **결초보은** - 계명대학교 결초보은(빅데이터분석 학술 동아리) (2022.01 ~ 2024.02)
+
+  ## 📫 Certification
+  - 빅데이터분석기사
+  - ADsP(데이터분석 준전문가)
+  - SQLD(SQL 개발자)
 </div>
 
 
