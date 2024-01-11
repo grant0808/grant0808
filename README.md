@@ -50,10 +50,15 @@ Here are some ideas to get you started:-->
 </div>
 
 <div align="left">
-## 👨🏻‍💻 Careers
-
-- **LG U+** Front-end Developer (2022.05. ~ ing)
-- **LG U+** Front-end Developer(intern) (2022.04. ~ 2022.05.)
+  ## 👨🏻‍💻 Careers
+  
+  - **LG U+** Front-end Developer (2022.05. ~ ing)
+  - **LG U+** Front-end Developer(intern) (2022.04. ~ 2022.05.)
+  
+  ## 📚 Education
+  
+  - **SSAFY** - 삼성 청년 SW 아카데미 6기 (2021.07. ~ 2022.04.) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+  - **elice** - 엘리스 AI 서비스 기획 개발 트랙 1기 (2020.12. ~ 2021.06.) [:link:](https://elicetrack.oopy.io/1e3c9b9f-fcbe-4f22-8a17-416deb670dba)
 </div>
 <!--
 
