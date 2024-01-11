@@ -11,6 +11,7 @@ Here are some ideas to get you started:-->
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🔭Hwangbounghyeon&fontSize=70)
 
+## :green_book: GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwangbounghyeon&show_icons=true&theme=radical)<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangbounghyeon)](https://github.com/anuraghazra/github-readme-stats)<br>
@@ -46,10 +47,12 @@ Here are some ideas to get you started:-->
 🌱 **e-mail** <br>
 <a href="grant0808@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=grant0808@naver.com"/>
 
+<div align="left">
 ## 👨🏻‍💻 Careers
 
 - **LG U+** Front-end Developer (2022.05. ~ ing)
 - **LG U+** Front-end Developer(intern) (2022.04. ~ 2022.05.)
+</div>
 <!--
 
 - 💬 Ask me about ...
