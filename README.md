@@ -10,6 +10,7 @@ Here are some ideas to get you started:-->
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🔭Hwangbounghyeon&fontSize=70)
+<img src="./giphy.gif" alt="Coding">
 
 ## :green_book: GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwangbounghyeon&show_icons=true&theme=radical)<br>
@@ -22,7 +23,6 @@ Here are some ideas to get you started:-->
 
 
 
-<img src="./giphy.gif" alt="Coding">
 
 
 
