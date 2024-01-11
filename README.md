@@ -46,6 +46,10 @@ Here are some ideas to get you started:-->
 🌱 **e-mail** <br>
 <a href="grant0808@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=grant0808@naver.com"/>
 
+## 👨🏻‍💻 Careers
+
+- **LG U+** Front-end Developer (2022.05. ~ ing)
+- **LG U+** Front-end Developer(intern) (2022.04. ~ 2022.05.)
 <!--
 
 - 💬 Ask me about ...
