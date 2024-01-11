@@ -17,8 +17,10 @@ Here are some ideas to get you started:-->
 
 <img src="./giphy.gif" alt="Coding">
 
-🌱 **e-mail** <br>
-<a href="grant0808@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=grant0808@naver.com"/>
+🌱 **SNS** <br>
+![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)<br>
+<a href="grant0808@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <br>
 <br>
