@@ -20,10 +20,16 @@ Here are some ideas to get you started:-->
 🌱 **e-mail** <br>
 <a href="grant0808@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=grant0808@naver.com"/>
 
+<br>
+<br>
+
 ## :green_book: GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwangbounghyeon&show_icons=true&theme=radical)<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangbounghyeon)](https://github.com/anuraghazra/github-readme-stats)<br>
+
+<br>
+<br>
 
 ## :bulb: Algorithm
 [![Solved.ac
@@ -31,9 +37,6 @@ Here are some ideas to get you started:-->
 <br>
 <br>
 <br>
-
-
-
 
 
 📋 **Languages**<br>
