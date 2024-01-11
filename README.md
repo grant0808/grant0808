@@ -34,8 +34,7 @@ Here are some ideas to get you started:-->
 <br>
 
 ## :bulb: Algorithm
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=grant)](https://solved.ac/grant)
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=grant)](https://solved.ac/grant)
 <br>
 <br>
 <br>
