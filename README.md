@@ -17,6 +17,9 @@ Here are some ideas to get you started:-->
 
 <img src="./giphy.gif" alt="Coding">
 
+🌱 **e-mail** <br>
+<a href="grant0808@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=grant0808@naver.com"/>
+
 ## :green_book: GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwangbounghyeon&show_icons=true&theme=radical)<br>
 
@@ -25,7 +28,9 @@ Here are some ideas to get you started:-->
 ## :bulb: Algorithm
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=grant)](https://solved.ac/grant)
-
+<br>
+<br>
+<br>
 
 
 
@@ -54,8 +59,7 @@ Here are some ideas to get you started:-->
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)<br>
 **RapidMiner**  ,  **Tableau**
 
-🌱 **e-mail** <br>
-<a href="grant0808@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=grant0808@naver.com"/>
+
 </div>
 
 <div align="left">
