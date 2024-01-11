@@ -3,7 +3,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 이름 : **황병현**
-- 🌱 이메일 : 5516237@kmu.kr  
+- 🌱 이메일 : grant0808@naver.com
 - 👯 사용프로그램 : SQL,Python,R
 - 🤔 사용 툴 : RapidMiner, Tableau
 
