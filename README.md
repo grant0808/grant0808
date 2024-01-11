@@ -16,6 +16,7 @@ Here are some ideas to get you started:-->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=🔭Hwangbounghyeon's%20Github&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 <img src="./giphy.gif" alt="Coding">
+<br>
 
 🌱 **SNS** <br>
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000"/></a>
