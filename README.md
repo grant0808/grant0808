@@ -35,7 +35,8 @@ Here are some ideas to get you started:-->
 <br>
 
 ## :bulb: Algorithm
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=grant)](https://solved.ac/grant)
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=grant)](https://solved.ac/grant)<br>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=grant&theme=dark)
 <br>
 <br>
 <br>
