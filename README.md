@@ -2,7 +2,12 @@
 
 Here are some ideas to get you started:-->
 <div align="center">
-  
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Hwang)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangbounghyeon)](https://github.com/anuraghazra/github-readme-stats)
+
+
 🔭 이름 : **황병현**<br>
 🌱 이메일 : grant0808@naver.com<br>
 
