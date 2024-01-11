@@ -10,8 +10,6 @@ Here are some ideas to get you started:-->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=grant)](https://solved.ac/grant)
 
-🔭 이름 : **황병현**<br>
-🌱 이메일 : grant0808@naver.com<br>
 
 
 <img src="./giphy.gif" alt="Coding">
@@ -37,7 +35,8 @@ Here are some ideas to get you started:-->
 **RapidMiner**    **Tableau**<br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+🌱 **e-mail** <br>
+<a href="grant0808@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=grant0808@naver.com"/>
 
 <!--
 
