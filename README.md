@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwangbounghyeon&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangbounghyeon)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={grant})](https://solved.ac/{grant})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=grant)](https://solved.ac/grant)
 
 🔭 이름 : **황병현**<br>
 🌱 이메일 : grant0808@naver.com<br>
