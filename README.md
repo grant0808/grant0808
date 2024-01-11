@@ -50,6 +50,7 @@ Here are some ideas to get you started:-->
 </div>
 
 <div align="left">
+  
   ## 👨🏻‍💻 Careers
   
   - **LG U+** Front-end Developer (2022.05. ~ ing)
