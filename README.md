@@ -66,6 +66,8 @@ Here are some ideas to get you started:-->
 </div>
 
 <div align="left">
+  <br>
+  <br>
   
   ## 👨🏻‍💻 Careers
   - 한국경영정보학회 - 2023년 추계학술대회(2022.11) "감성 분석 기반의 새로운 평점 생성 방법:steam과 Amazon데이터를 활용한 연구" 투고
