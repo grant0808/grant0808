@@ -80,7 +80,7 @@ Here are some ideas to get you started:-->
   - 한국정보기술학회 - 2022년 추계학술대회(2021.01) "모회사 뉴스감정을 이용한 자회사 주가 등락 예측" 투고 - 우수논문상 수상
   
   ## 📚 Education
-  - **SSAFY** - 삼성 청년 SW 아카데미 11기 (2024.01. ~ ) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+  - **SSAFY** - 삼성 청년 SW 아카데미 11기 (2024.01. ~ 2024.12) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
   - **결초보은** - 계명대학교 결초보은(빅데이터분석 학술 동아리) (2022.01 ~ 2024.02)
   - **계명대학교** - 주전공 : 경영정보학과 / 복수전공 : 비즈니스데이터분석학 (2018.03 ~ 2024.02)
 
