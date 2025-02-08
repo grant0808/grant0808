@@ -14,33 +14,12 @@ Here are some ideas to get you started:-->
   
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🔭Hwangbounghyeon&fontSize=70) -->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=🔭Hwangbounghyeon's%20Github&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-
-<img src="./giphy.gif" alt="Coding">
 <br>
+</div>
 
-🌱 **SNS** <br>
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000"/></a>
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a><br>
-<a href="mailto:grant0808@naver.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=grant0808@naver.com"/>
-
-<br>
-<br>
-
-## :green_book: GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwangbounghyeon&count_private=true&show_icons=true&theme=radical)](https://github.com/cardroid)<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangbounghyeon)](https://github.com/anuraghazra/github-readme-stats)<br>
-
-<br>
-<br>
-
-## :bulb: Algorithm
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=grant)](https://solved.ac/grant)<br>
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=grant&theme=dark)
-<br>
-<br>
-<br>
-
+<div>
+  
+## 🌱 **Tech** 
 
 📋 **Languages**<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -58,13 +37,14 @@ Here are some ideas to get you started:-->
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 <img src="https://img.shields.io/badge/pytorch-EE4C2C6?style=for-the-badge&logo=pytorch&logoColor=#EE4C2C"><br>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 💻 **IDEs/Editors**<br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)<br>
 <img src="https://img.shields.io/badge/tableau-E34F26?style=for-the-badge&logo=tableau&logoColor=white">
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 
@@ -99,3 +79,20 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<br>
+
+## :bulb: Algorithm
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=grant)](https://solved.ac/grant)<br>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=grant&theme=dark)
+<br>
+<br>
+<br>
+
+## :green_book: GitHub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwangbounghyeon&count_private=true&show_icons=true&theme=radical)](https://github.com/cardroid)<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangbounghyeon)](https://github.com/anuraghazra/github-readme-stats)<br>
+
+<br>
+<br>
