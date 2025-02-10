@@ -90,9 +90,9 @@ Here are some ideas to get you started:-->
 <br>
 
 ## :green_book: GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwangbounghyeon&count_private=true&show_icons=true&theme=radical)](https://github.com/cardroid)<br>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=grant0808&count_private=true&show_icons=true&theme=radical)](https://github.com/cardroid)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangbounghyeon)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grant0808)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 <br>
 <br>
