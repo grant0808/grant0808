@@ -99,7 +99,7 @@ Here are some ideas to get you started:-->
 
 # 📗 GitHub Stats
 
-![ByeongHyeon's GitHub stats](https://github-readme-stats-psi-smoky.vercel.app/api?username=grant0808&show_icons=true&bg_color=0,845ef7,FB7185&text_color=fff&title_color=fff&hide_border=true&icon_color=fff&hide_rank=true)
+![ByeongHyeon's GitHub stats](https://github-readme-stats-psi-smoky.vercel.app/api?username=grant0808&include_all_commits=true&show_icons=true&bg_color=0,845ef7,FB7185&text_color=fff&title_color=fff&hide_border=true&icon_color=fff&hide_rank=true)
 
 ![Top Langs](https://github-readme-stats-psi-smoky.vercel.app/api/top-langs/?username=grant0808&layout=compact&bg_color=0,845ef7,FB7185&text_color=fff&title_color=fff&hide_border=true&hide=java,objective-c&border_radius=4&hide_progress=true)
 
