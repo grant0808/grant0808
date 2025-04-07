@@ -55,10 +55,17 @@ Here are some ideas to get you started:-->
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue">
 
+  <h3>💻 Dev/infra</h3>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-squar&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-squar&logo=Apache%20Airflow&logoColor=white">
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-squar&logo=kubernetes&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-squar&logo=apachekafka">
+    <img src="https://img.shields.io/badge/ArgoCD-E34F26?style=flat-square&logo=argocd&logoColor=white" alt="ArgoCD">
+    
   <h3>💻 IDEs/Editors</h3>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
     <img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&labelColor=green" alt="PyCharm">
-    <img src="https://img.shields.io/badge/tableau-E34F26?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+    <img src="https://img.shields.io/badge/Tableau-E34F26?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
 </div>
