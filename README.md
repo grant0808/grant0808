@@ -101,9 +101,7 @@ Here are some ideas to get you started:-->
   </a>
 </p>
 
-<p align="left">
-  <img src="http://mazandi.herokuapp.com/api?handle=grant&theme=dark" alt="mazandi profile">
-</p>
+[![solved.ac stats v2 streak](https://solvedac-readme-stats.vercel.app/api?handle=grant&v=2&streak=true)](https://github.com/kookjd7759/solvedac-readme-stats)
 
 <br>
 <br>
