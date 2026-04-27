@@ -101,8 +101,7 @@ Here are some ideas to get you started:-->
   </a>
 </p>
 
-[![solved.ac stats v2 streak](https://solvedac-readme-stats.vercel.app/api?handle=grant&v=2&streak=true)](https://github.com/kookjd7759/solvedac-readme-stats)
-
+![solved.ac 카드](https://solvedac-readme-stats.vercel.app/api?handle=grant&v=2&streak=true)
 <br>
 <br>
 
